@@ -1,3 +1,3 @@
 # Python-Noteboks
 
-Only for Practice purpose
+Practice Purpose Only
